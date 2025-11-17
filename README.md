@@ -1,12 +1,11 @@
 <p align="center">
   <h1 align="center">FVGen: Accelerating Novel-View Synthesis with Adversarial Video Diffusion Distillation</h1>
   <p align="center">
-    <a href="https://wbteng9526.github.io/">Wenbin Teng</a><sup>*</sup>,
-    <a href="https://xtcpete.com/">Gonglin Chen</a><sup>*</sup>,
+    <a href="https://wbteng9526.github.io/">Wenbin Teng</a>,
+    <a href="https://xtcpete.com/">Gonglin Chen</a>,
     <a href="https://scholar.google.com/citations?user=LVWRssoAAAAJ&hl=en">Haiwei Chen</a>,
     <a href="https://www.yajie-zhao.com/">Yajie Zhao</a>
     <br>
-    <sup>*</sup>Equal Contribution.
     <br>
     University of Southern California
   </p>
